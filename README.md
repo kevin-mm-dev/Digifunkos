@@ -1,6 +1,6 @@
 # DigiFunkos
 This is a smart contract used for my marketplace called [Digifunkos](https://github.com/kevin-mm-dev/digi-funkos-interface).
-This contract is a collection of NFTs with a deterministic Pseudo Random DNA.\
+This contract is a collection of NFTs with a deterministic Pseudo Random DNA.
 
 ### Hardhat Project
 
